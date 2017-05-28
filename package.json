@@ -1,0 +1,23 @@
+{
+  "name": "huntforapro-core-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuntForAPro/core-api.git"
+  },
+  "author": "Eugene Safronov <evgeniy.safronov@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuntForAPro/core-api/issues"
+  },
+  "homepage": "https://github.com/HuntForAPro/core-api#readme",
+  "dependencies": {
+    "config": "^1.26.1",
+    "express": "^4.15.3"
+  }
+}
